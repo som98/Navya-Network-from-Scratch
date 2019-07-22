@@ -1,0 +1,266 @@
+.abc a
+{
+      height: 100px;
+      margin-top: 10px;
+     margin-right: 10px;
+     margin-bottom: 10px;
+     margin-left: 30px;
+
+}
+
+.efg
+{
+  margin-right: 20px;
+}
+
+
+ .navbar-nav li .dropdown-menu{
+   background-color:#b657a0;
+ }
+
+.navbar-collapse .xyz .clearfix
+{
+
+
+  font-family: 'HankenBook';
+  font-weight: normal;
+  font-style: normal;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+
+
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding-left: 310px;
+  padding-top: 10px;
+}
+.navbar-collapse .xyz .clearfix .button1{
+  background-color:#b657a0;
+  border: 2px solid #b657a0;
+  color: white;
+  border-radius: 12px;
+
+}
+.navbar-collapse .xyz .clearfix .button1:hover
+{
+  background-color: white;
+ color: #b657a0;
+}
+
+.main
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: inherit;
+
+}
+
+
+ .main .wrap .text-block {
+  position: absolute;
+  height: 50px;
+  margin-left: 250px;
+  border-radius: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  text-align: center;
+
+   bottom: 0.05px;
+   background-color:#726e6e;
+   color: white;
+border-bottom: 0px;
+
+font-family: 'BloggerSansLight';
+   font-weight: normal;
+   font-style: normal;
+   }
+
+#one{
+  text-align: center;
+  font-family: 'TruenoRegular';
+  font-size: 50px;
+   font-style: normal;
+   font-stretch: ultra-expanded;
+   color: #b657a0;
+}
+#two{
+  text-align: center;
+  font-family: 'BloggerSansLight';
+     font-weight: normal;
+     font-style: normal;
+}
+
+.main-cta {
+    position: relative;
+    height: 3px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.main-cta .button2
+{
+  background-color: white;
+  color: #b657a0;
+  font-size: 25px;
+
+}
+.nextmain{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  padding: 1.5em 1em 2em;
+}
+
+.nextmain .about-logo{
+  width: 100%;
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.nextmain .wrap {
+
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nextmain .wrap h2 {
+
+    width: 650px;
+    font-size: 1.5em;
+    line-height: 1.25em;
+    color: #ffff;
+    text-align: center;
+    margin: 0 auto;
+    text-shadow: 0 0 15px #8a5880;
+    font-family: 'PrataRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+#three{
+  font-size: 70px;
+  color: white;
+  text-align: center;
+
+}
+
+.pic1
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: inherit;
+   width:10%;
+}
+
+.pic1write{
+  padding-top: 70px;
+  padding-left: 30px;
+  font-family: 'SarabunRegular';
+   font-weight: normal;
+
+}
+
+.pic1write .four{
+  color: #b657a0;
+  font-style: bolder;
+
+}
+
+.pic2{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: inherit;
+   width:10%;
+}
+
+.pic2write{
+    padding-top: 70px;
+    padding-left: 30px;
+    font-family: 'SarabunRegular';
+     font-weight: normal;
+}
+
+.pic2write .five{
+  color: #b657a0;
+  font-style: bolder;
+
+}
+
+.pic3{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: inherit;
+   width:10%;
+}
+
+.pic3write{
+    padding-top: 40px;
+    padding-left: 30px;
+    font-family: 'SarabunRegular';
+     font-weight: normal;
+}
+
+.pic3write .six{
+  color: #b657a0;
+  font-style: bolder;
+
+}
+
+
+.againmain{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  padding: 1.5em 1em 2em;
+}
+
+.againmain .boxed{
+  align:center;
+  text-align: justify;
+  width: 300px;
+  padding: 25px;
+  margin-left: 200px;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.againmain  .yo{
+  align:center;
+  text-align: justify;
+  width: 300px;
+  padding: 25px;
+  margin-left: 150px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+ #seven{
+  font-size: 30px;
+  text-align: center;
+}
+
+.againmain .row .bap
+{
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+  font-family: 'BloggerSansBold';
+  font-size: 20px;
+   font-weight: bold;
+   font-style: normal;
+}
+
+.againnextmain .eight{
+  margin-top: 50px;
+  text-align: center;
+  color: #b657a0;
+}
